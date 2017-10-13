@@ -1,0 +1,683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"backlogin"
+			],
+			[
+				"ne",
+				"newPassword"
+			],
+			[
+				"in",
+				"input_verify_code"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"ty",
+				"typeCode"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"sto",
+				"storage"
+			],
+			[
+				"order",
+				"orderCenterRight"
+			],
+			[
+				"fl",
+				"false"
+			],
+			[
+				"f",
+				"fClose"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inp",
+				"input-text"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"or",
+				"order-manage"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"isu",
+				"isupdate"
+			],
+			[
+				"is",
+				"isupdate"
+			],
+			[
+				"su",
+				"subareafid"
+			],
+			[
+				"roundid",
+				"roundIdArr"
+			],
+			[
+				"rounid",
+				"roundIdArr"
+			],
+			[
+				"round",
+				"roundfid"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"im",
+				"imageArr"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ite",
+				"item0"
+			],
+			[
+				"roo",
+				"roomId"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ex",
+				"executeSql"
+			],
+			[
+				"ques",
+				"questionId"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"profile",
+				"ProfileScreen"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"Main",
+				"MainScreen"
+			],
+			[
+				"me",
+				"message"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: lis",
+		"selected_items":
+		[
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ba",
+				"Preferences: Babel – Default"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcic",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/store/constant.js",
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/components/login/registerBoard.vue",
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/components/login/selectFactory.vue",
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/app.vue",
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/components/login/loginBoard.vue",
+		"/Users/macbook/Desktop/找印前/zhaoyinqian/src/views/login.vue",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/src/page/home/home.vue",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/src/page/order/order.vue",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/src/config/fetch.js",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/src/config/env.js",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/package.json",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/src/service/getData.js",
+		"/Users/macbook/Desktop/Vue/vue2-elm-master/node_modules/less/test/css/import-inline.css",
+		"/Users/macbook/Desktop/mmf-blog-vue2-ssr-master/src/admin.js",
+		"/Users/macbook/Desktop/mmf-blog-vue2-ssr-master/src/assets/css/style.css",
+		"/Users/macbook/Desktop/mmf-blog-vue2-ssr-master/src/pages/backend-article-list.vue",
+		"/Users/macbook/Desktop/mmf-blog-vue2-ssr-master/src/pages/frontend-index.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/common/NavigationBar.vue",
+		"/Users/macbook/Desktop/my-project/package.json",
+		"/Users/macbook/Desktop/my-project/build/webpack.dev.conf.js",
+		"/Users/macbook/Desktop/zhaoyinqian/build/dev-server.js",
+		"/Users/macbook/Desktop/zhaoyinqian/build/build.js",
+		"/Users/macbook/Desktop/zhaoyinqian/config/index.js",
+		"/Users/macbook/Desktop/zhaoyinqian/build/webpack.prod.conf.js",
+		"/Users/macbook/Desktop/zhaoyinqian/build/webpack.base.conf.js",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/userCenter/orderManage.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/pages/login/login.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/store/mutations.js",
+		"/Users/macbook/Desktop/zhaoyinqian/src/store/action.js",
+		"/Users/macbook/Desktop/zhaoyinqian/src/store/getter.js",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/NavigationBar.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/registerBoard.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/loginBoard.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/userCenter/userProfile.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/pages/userCenter/userCenter.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/selectFactory.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/myMessage.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/userCenter/myMessage.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/orderManage.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/components/userProfile.vue",
+		"/Users/macbook/Desktop/zhaoyinqian/src/store/store.js",
+		"/Users/macbook/Desktop/zhaoyinqian/src/App.vue",
+		"/Users/macbook/Downloads/suanban-master/app/package.json",
+		"/Users/macbook/Desktop/stoneTmall/stonetmall_ios_app2/.git/index",
+		"/Users/macbook/Desktop/MyApp/vue2-elm-master/config/index.js",
+		"/Users/macbook/Desktop/MyApp/vue/config/index.js",
+		"/Users/macbook/Desktop/MyApp/vue2-elm-master/build/webpack.dev.conf.js",
+		"/Users/macbook/Desktop/MyApp/vue2-elm-master/build/webpack.base.conf.js",
+		"/Users/macbook/Desktop/MyApp/vue/config/dev.env.js",
+		"/Users/macbook/Desktop/MyApp/vue2-elm-master/package.json",
+		"/Users/macbook/Desktop/MyApp/www/index.html",
+		"/Users/macbook/Desktop/MyApp/vue2-elm-master/build/build.js",
+		"/Users/macbook/Desktop/privatePod/DevenPod.podspec",
+		"/Users/macbook/Desktop/roomCheck/package.json",
+		"/Users/macbook/Downloads/jackblog-vue-master/src/components/Home/articles.vue",
+		"/Users/macbook/Downloads/jackblog-vue-master/src/components/Home/sidebar.vue",
+		"/Users/macbook/Downloads/jackblog-vue-master/src/components/Home/footer.vue",
+		"/Users/macbook/Documents/工作/元印/SVN目录/YFYY/src/roomCheck/src/common/SqlApi.js",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/common/SqlApi.js",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Acceptance/AcceptanceInnList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/vuex/actions.js",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Home/AcceList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Acceptance/Index.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/common/SqlLite.js",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Loading/Index.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/App.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Acceptance/AcceptanceList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/AddQues/AddQuesList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/AddQues/AddQuesInnList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/AddQues/List.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Footer/Index.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Header/Index.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Header/Top.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Home/Index.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Question/QuestionList.vue",
+		"/Users/macbook/Desktop/代码测试/roomCheck/src/components/Select/SelectL.vue",
+		"/Users/macbook/Desktop/RoomCheck-V1.1-2017.06.28/src/components/Footer/Index.vue",
+		"/Users/macbook/Desktop/roomCheck/src/vuex/connect.js",
+		"/Users/macbook/Desktop/roomCheck 3/src/component/Addshow.vue",
+		"/Users/macbook/Desktop/roomCheck 3/src/vuex/connect.js",
+		"/Users/macbook/Desktop/roomCheck/plugins/cordova-plugin-camera/tests/tests.js",
+		"/Users/macbook/Desktop/roomCheck/plugins/cordova-plugin-camera/appium-tests/ios/ios.spec.js",
+		"/Users/macbook/Desktop/roomCheck 2/src/vuex/connect.js",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/package.json",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/index.template.html",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/index.html",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/app.vue",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/src/views/home.vue",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/src/components/barBottom.vue",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/src/components/barTop.vue",
+		"/Users/macbook/Desktop/Vue/easy-vue-master/api.json",
+		"/Users/macbook/Documents/工作/Qeeka/Code/Github/reading/app/utils/NavigationUtil.js",
+		"/Users/macbook/Desktop/ReactApp/node_modules/react-native-dismiss-keyboard/dist/index.js",
+		"/Users/macbook/Documents/我的/React Native/MeiTuan-master/src/scene/Home/HomeScene.js",
+		"/Users/macbook/Desktop/config.js",
+		"/Users/macbook/Desktop/testCordova/App/config/index.js",
+		"/Users/macbook/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/macbook/Documents/我的/React Native/MeiTuan-master/src/scene/Home/HomeMenuView.js",
+		"/Users/macbook/Documents/我的/React Native/MeiTuan-master/src/scene/Home/HomeMenuItem.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/macbook/Desktop/Vue/vue2-elm-master/src",
+			"/Users/macbook/Desktop/Vue/vue2-elm-master",
+			"/Users/macbook/Desktop/mmf-blog-vue2-ssr-master/src",
+			"/Users/macbook/Desktop/my-project/",
+			"/Users/macbook/Desktop/my-project/build",
+			"/Users/macbook/Desktop/Vue/easy-vue-master/src",
+			"/Users/macbook/Desktop/Vue/easy-vue-master",
+			"/Users/macbook/Desktop/Vue/easy-vue-master/src",
+			"/Users/macbook/Desktop/roomCheck/src",
+			"/Users/macbook/Downloads/jackblog-vue-master",
+			"/Users/macbook/Desktop/roomCheck 3/src",
+			"/Users/macbook/Desktop/代码测试/roomCheck/src",
+			"/Users/macbook/Desktop/Vue/vue2-elm-master/src",
+			"/Users/macbook/Documents/工作/元印/SVN目录/checkroom/src/roomCheck/src",
+			"/Users/macbook/Desktop/Vue/easy-vue-master",
+			"/Users/macbook/Desktop/Vue/easy-vue-master/src",
+			"/Users/macbook/Desktop/Vue/easy-vue-master/src/",
+			"/Users/macbook/Desktop/Vue/easy-vue-master",
+			"/Users/macbook/Desktop/Vue/easy-vue-master/src",
+			"/Users/macbook/Documents/工作/元印/SVN目录/checkroom/src/roomCheck/src",
+			"/Users/macbook/Desktop/React Native/shopping-react-native-master/app/page",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mail",
+			"option",
+			"fshow",
+			"POST",
+			"post",
+			"fetch",
+			"setpromise",
+			"shopDetails",
+			"foodMenu",
+			"cityGuess",
+			"/search/",
+			"border-bottome1",
+			"style.css",
+			";\n",
+			"8080",
+			"style\nstyle",
+			"state",
+			"isloadingComplete",
+			"store",
+			"updateLoadingState",
+			"get",
+			"question_edit_submit",
+			"createTable(tx, 'T_CheckQuestionData",
+			"FilePass",
+			"T_CheckQuestionData",
+			"INSERT_SINGER_DATA",
+			"T_CheckQuestionData",
+			"isAdd",
+			"FilePass",
+			"lipas",
+			"FilePass",
+			"beforeEach",
+			"router",
+			"router.push",
+			"push",
+			"保存",
+			"cookie.getCookie('roundfid')",
+			"cookie.getCookie('buildingfid')",
+			"cookie.getCookie('subareafid')",
+			"cookie.getCookie('seq')",
+			"setCookie('roundfid',",
+			"setCookie",
+			"setCookie('roundfid')",
+			"roundfid",
+			"setCookie('roundId')",
+			"getAllData",
+			"新增轮次",
+			"SqlLite.REBUILD_BATCHID",
+			"opendb",
+			"openDatabase",
+			"sqlitePlugin",
+			"window.sqlitePlugin.openDatabase",
+			"window.sqlitePlugin",
+			"opendb",
+			"db",
+			"batchId, fNumber, roomIds, roundId,",
+			"router.push",
+			".push",
+			"isupdate",
+			"上传列表",
+			"updateBatchStateToNormal",
+			"更新",
+			"更新状态",
+			"gotoAddress",
+			"push",
+			"gone",
+			"验收",
+			"reseive",
+			"save",
+			"take",
+			"png",
+			"saveSomeImage",
+			"loadImageFiles",
+			"application",
+			"getAllData",
+			"datas",
+			"成功更新验收项为不通过",
+			"updateQuestionBatchState",
+			"updateQuestionBatchStateToDoing",
+			"res",
+			"新增问题",
+			"updateQuestionBatchState",
+			"新增问题",
+			"updateQuestionBatchState",
+			"updateQuestionBatchStateToDoing",
+			"updateQuestionBatchState",
+			"updateQuestionBatchStateToDoing",
+			"新增问题",
+			"date",
+			"GET_NO_BY_QUESTION",
+			"insertCheckQuestionData",
+			"问题",
+			"insertData",
+			"reseive",
+			"保存",
+			"dispatch",
+			"updateLoadingState",
+			"mutations",
+			".devtools",
+			"method",
+			".title",
+			"title",
+			"UPDATE_STATUS",
+			"isUpdate",
+			"updateQuestionBatchStateToDoing",
+			"insertData",
+			"updateQuestionBatchStateToDoing",
+			"isupdate",
+			"mixins",
+			"TimerMixin",
+			"login",
+			"_renderListItem",
+			"Loading",
+			"ref",
+			"_selectTab",
+			"_renderLogin",
+			"_addNavigator",
+			"loginResult",
+			"login",
+			"loginResult",
+			"renderLogined",
+			"import",
+			"\n    ",
+			"getQuestionCheckData",
+			"getCheckConfigData",
+			"getRoomData",
+			"getCheckProjectData",
+			"loadImageFiles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
